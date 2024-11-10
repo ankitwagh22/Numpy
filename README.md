@@ -3,9 +3,13 @@ This repository contains coding exercises and projects completed during my journ
 
 Content
 Array Basics: Creating and manipulating arrays, indexing, slicing, and reshaping.
+
 Mathematical Operations: Element-wise operations, broadcasting, and aggregation functions.
+
 Linear Algebra: Matrix operations, vector calculations, and eigenvalues.
+
 Random Sampling: Generating random numbers, distributions, and simulations.
+
 Advanced Operations: Using NumPy for statistical analysis and other numerical techniques.
 
 Requirements
